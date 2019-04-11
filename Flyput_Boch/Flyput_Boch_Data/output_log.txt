@@ -1,0 +1,106 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Vendor:   NVIDIA
+    VRAM:     2997 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\DemiLib.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\DemiLib.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\DOTweenPro.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\DOTweenPro.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\MqttLib.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\MqttLib.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\System.Drawing.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\System.Drawing.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\WindowManager.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\WindowManager.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\QRCode.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\QRCode.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\OSCsharp.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\OSCsharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\TUIOsharp.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\TUIOsharp.dll into Unity Child Domain
+- Completed reload, in  0.026 seconds
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.865625 ms
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\System.Configuration.dll (this message is harmless)
+2019-04-11 18:24:16 	 Unity Window Handle: 3869370
+2019-04-11 18:24:16 	 SetFullScreen(x:0, y:0, width:9120, height:1200)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.212680 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2323.
+Total: 1.039185 ms (FindLiveObjects: 0.118914 ms CreateObjectMapping: 0.059302 ms MarkObjects: 0.847307 ms  DeleteObjects: 0.013040 ms)
+
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\Mono.Security.dll (this message is harmless)
+Client connecting
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Client connected
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\System.Runtime.Serialization.dll (this message is harmless)
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\System.Data.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+Done.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Escape
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Client disconnecting
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Client disconnected
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 3a20 -> priority: 1 
+  Thread -> id: 4a90 -> priority: 1 
+  Thread -> id: 2760 -> priority: 1 
+  Thread -> id: 5ef8 -> priority: 1 
+  Thread -> id: 3ddc -> priority: 1 
+  Thread -> id: 4d3c -> priority: 1 

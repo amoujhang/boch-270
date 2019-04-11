@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<LocalSetting xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <螢幕位置與長寬設定>
+    <X>0</X>
+    <Y>0</Y>
+    <Width>1920</Width>
+    <Height>1200</Height>
+  </螢幕位置與長寬設定>
+  <解析度>
+    <x>9120</x>
+    <y>1200</y>
+  </解析度>
+  <資訊框於圖片模式下停留多久會被關掉>60</資訊框於圖片模式下停留多久會被關掉>
+</LocalSetting>
