@@ -45,24 +45,29 @@ Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\OS
 Loading C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\OSCsharp.dll into Unity Child Domain
 Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\TUIOsharp.dll (this message is harmless)
 Loading C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\TUIOsharp.dll into Unity Child Domain
-- Completed reload, in  0.026 seconds
+- Completed reload, in  0.027 seconds
 Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\System.dll (this message is harmless)
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
 <RI> Initialized touch support.
-UnloadTime: 0.865625 ms
+UnloadTime: 0.784899 ms
 Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\System.Xml.dll (this message is harmless)
 Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\System.Configuration.dll (this message is harmless)
-2019-04-11 18:24:16 	 Unity Window Handle: 3869370
-2019-04-11 18:24:16 	 SetFullScreen(x:0, y:0, width:9120, height:1200)
+2019-04-12 16:49:16 	 Unity Window Handle: 2034316
+2019-04-12 16:49:16 	 SetFullScreen(x:0, y:0, width:9120, height:1200)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.212680 ms
+UnloadTime: 0.322591 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at Main.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
 
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2323.
-Total: 1.039185 ms (FindLiveObjects: 0.118914 ms CreateObjectMapping: 0.059302 ms MarkObjects: 0.847307 ms  DeleteObjects: 0.013040 ms)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2349.
+Total: 0.969326 ms (FindLiveObjects: 0.091902 ms CreateObjectMapping: 0.060854 ms MarkObjects: 0.805391 ms  DeleteObjects: 0.010866 ms)
 
 Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\Mono.Security.dll (this message is harmless)
 Client connecting
@@ -78,12 +83,11 @@ Client connected
 Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\System.Runtime.Serialization.dll (this message is harmless)
 Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\System.Xml.Linq.dll (this message is harmless)
 Platform assembly: C:\Users\User\Desktop\Flyput_Boch\Flyput_Boch_Data\Managed\System.Data.dll (this message is harmless)
-desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
-Done.
+Escape
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Escape
+[Check] Request Aborted!
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -98,9 +102,9 @@ Client disconnected
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Setting up 6 worker threads for Enlighten.
-  Thread -> id: 3a20 -> priority: 1 
-  Thread -> id: 4a90 -> priority: 1 
-  Thread -> id: 2760 -> priority: 1 
-  Thread -> id: 5ef8 -> priority: 1 
-  Thread -> id: 3ddc -> priority: 1 
-  Thread -> id: 4d3c -> priority: 1 
+  Thread -> id: 405c -> priority: 1 
+  Thread -> id: 34a0 -> priority: 1 
+  Thread -> id: 38bc -> priority: 1 
+  Thread -> id: 3aac -> priority: 1 
+  Thread -> id: 17c8 -> priority: 1 
+  Thread -> id: 4464 -> priority: 1 
